@@ -135,15 +135,13 @@ Commit your changes
 
 Push the branch and create a pull request
 
-License 📜✅⚖️
 
-This project is licensed under the MIT License.
 
 Contact 📩📱🌍
 
 For any queries or support, feel free to contact:
 
-Email: your.email@example.com
+Email:bhumikabandkar02@gmail.com
 
-LinkedIn: Your LinkedIn Profile
+LinkedIn: https://www.linkedin.com/in/bhumikabandkar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
