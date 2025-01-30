@@ -1,0 +1,51 @@
+.homePage {
+  width: 100%;
+}
+
+.heroSection {
+  background-image: url("https://hebbkx1anhila5yf.public.blob.vercel-storage.com/istockphoto-1318880624-612x612.jpg-GRxNtgLwAoEpBSk5h4sv6V8hWurvag.jpeg");
+  background-size: cover;
+  background-position: center;
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+.heroTitle {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.heroSubtitle {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.ctaButton {
+  background-color: #007bff;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.ctaButton:hover {
+  background-color: #0056b3;
+}
+
+.featuredProductsSection {
+  padding: 4rem 2rem;
+}
+
+.sectionTitle {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+

@@ -1,0 +1,70 @@
+.checkoutContainer {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
+  
+  .checkoutForm {
+    flex: 1;
+    min-width: 300px;
+  }
+  
+  .formGroup {
+    margin-bottom: 1rem;
+  }
+  
+  .formGroup label {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  .formGroup input,
+  .formGroup select {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+  }
+  
+  .placeOrderButton {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+    width: 100%;
+    margin-top: 1rem;
+  }
+  
+  .placeOrderButton:hover {
+    background-color: #0056b3;
+  }
+  
+  .orderSummary {
+    flex: 1;
+    min-width: 300px;
+  }
+  
+  .summaryItem {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+  }
+  
+  .total {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    border-top: 1px solid #ced4da;
+    padding-top: 1rem;
+  }
+  
+  
